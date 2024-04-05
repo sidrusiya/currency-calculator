@@ -1,0 +1,17 @@
+{
+  "name": "currency-calculator",
+  "version": "1.0.0",
+  "description": "Currency calculator functionalities and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddhartha Rusiya",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/node": "^7.23.9",
+    "@babel/preset-env": "^7.24.4",
+    "axios": "^1.6.8"
+  }
+}
